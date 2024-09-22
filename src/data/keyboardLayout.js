@@ -1,0 +1,45 @@
+export const keyboardLayout = [
+    [
+      { label: '=', colspan: 1 },
+      { label: 'x²', colspan: 1 },
+      { label: 'xⁿ', colspan: 1 },
+      { label: '()', colspan: 1 },
+      { label: '7', colspan: 1 },
+      { label: '8', colspan: 1 },
+      { label: '9', colspan: 1 },
+      { label: '⌫', colspan: 1 }, // Merged key
+    ],
+    [
+      { label: 'x', colspan: 1 },
+      { label: 'π', colspan: 1 },
+      { label: 'ⁿ√', colspan: 1 },
+      { label: 'logₙ', colspan: 1 },
+      { label: '4', colspan: 1 },
+      { label: '5', colspan: 1 },
+      { label: '6', colspan: 1 },
+      { label: '+', colspan: 1 },
+      { label: '-', colspan: 1 },
+    ],
+    [
+      { label: 'y', colspan: 1 },
+      { label: '°', colspan: 1 },
+      { label: '√', colspan: 1 },
+      { label: 'log', colspan: 1 },
+      { label: '1', colspan: 1 },
+      { label: '2', colspan: 1 },
+      { label: '3', colspan: 1 },
+      { label: '×', colspan: 1 },
+      { label: '÷', colspan: 1 },
+    ],
+    [
+      { label: 'z', colspan: 1 },
+      { label: 'e', colspan: 1 },
+      { label: 'ᵉ√', colspan: 1 },
+      { label: 'ln', colspan: 1 },
+      { label: '', colspan: 1 },
+      { label: '0', colspan: 1 },
+      { label: '.', colspan: 1 },
+      { label: '⏎', colspan: 1 },
+    ],
+  ];
+  
